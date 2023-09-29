@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.js": "/zoomLive/static/js/main.e2d2ca4a.js",
+    "../public/lib/video.mtsimd.wasm": "/zoomLive/../public/lib/video.mtsimd.wasm",
+    "../public/lib/video.simd.wasm": "/zoomLive/../public/lib/video.simd.wasm",
+    "../public/lib/video.mt.wasm": "/zoomLive/../public/lib/video.mt.wasm",
+    "../public/lib/video.decode.wasm": "/zoomLive/../public/lib/video.decode.wasm",
+    "../public/lib/audio.simd.wasm": "/zoomLive/../public/lib/audio.simd.wasm",
+    "../public/lib/audio.encode.wasm": "/zoomLive/../public/lib/audio.encode.wasm",
+    "../public/lib/vb-resources/tf.min.js": "/zoomLive/../public/lib/vb-resources/tf.min.js",
+    "../public/lib/vb-resources/dualModel.bin": "/zoomLive/../public/lib/vb-resources/dualModel.bin",
+    "../public/lib/video_share_mtsimd.min.js": "/zoomLive/../public/lib/video_share_mtsimd.min.js",
+    "../public/lib/js_media.min.js": "/zoomLive/../public/lib/js_media.min.js",
+    "../public/lib/video_mtsimd.min.js": "/zoomLive/../public/lib/video_mtsimd.min.js",
+    "../public/lib/video_m.min.js": "/zoomLive/../public/lib/video_m.min.js",
+    "../public/lib/sharing_mtsimd.min.js": "/zoomLive/../public/lib/sharing_mtsimd.min.js",
+    "../public/lib/sharing_m.min.js": "/zoomLive/../public/lib/sharing_m.min.js",
+    "../public/lib/video_simd.min.js": "/zoomLive/../public/lib/video_simd.min.js",
+    "../public/lib/video_s.min.js": "/zoomLive/../public/lib/video_s.min.js",
+    "../public/lib/websipclient.min.js": "/zoomLive/../public/lib/websipclient.min.js",
+    "../public/lib/sharing_simd.min.js": "/zoomLive/../public/lib/sharing_simd.min.js",
+    "../public/lib/sharing_s.min.js": "/zoomLive/../public/lib/sharing_s.min.js",
+    "../public/lib/audio_simd.min.js": "/zoomLive/../public/lib/audio_simd.min.js",
+    "../public/lib/js_audio_process.min.js": "/zoomLive/../public/lib/js_audio_process.min.js",
+    "../public/lib/js_audio_worklet_simd.min.js": "/zoomLive/../public/lib/js_audio_worklet_simd.min.js",
+    "../public/lib/js_audio_worklet_process.min.js": "/zoomLive/../public/lib/js_audio_worklet_process.min.js",
+    "../public/lib/js_audio_worklet.min.js": "/zoomLive/../public/lib/js_audio_worklet.min.js",
+    "../public/lib/js_sharing_audio_worklet.min.js": "/zoomLive/../public/lib/js_sharing_audio_worklet.min.js",
+    "../public/lib/vb-resources/vbPreload.js": "/zoomLive/../public/lib/vb-resources/vbPreload.js",
+    "../public/lib/vb-resources/vbPreloadWorker.js": "/zoomLive/../public/lib/vb-resources/vbPreloadWorker.js",
+    "index.html": "/zoomLive/index.html",
+    "main.e2d2ca4a.js.map": "/zoomLive/static/js/main.e2d2ca4a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e2d2ca4a.js"
+  ]
+}
